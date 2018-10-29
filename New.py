@@ -34,12 +34,12 @@ kb = TOBY.LINE()
 kb.login(qr=True)
 kb.loginResult()
 
-# client_id = ''
-# client_secret = ''
-# access_token = ''
+ client_id = '1618143488'
+ client_secret = '8d6305bd74b3aaeb95b40858c5d68df0'
+ access_token = 'BxseuWyJIeZbQlV5PQymEU99kkG30cWKLcOdPu+UWvwqG27RH/wN1+oSRPiVLpWx8UalSCQ+8txAxz5DnIX9pLj0xy4CwacNnslTAEKhR/ojN2ykM92u+4YITQmXTd/uPe0cdv0o2CmMH4sjDrdg8wdB04t89/1O/w1cDnyilFU='
 # refresh_token = ''
 
-# client = ImgurClient(client_id, client_secret, access_token, refresh_token)
+ client = ImgurClient(client_id, client_secret, access_token, refresh_token)
 
 print "=====================\n       ʙᴏᴛ ᴘʀᴏᴛᴇᴄᴛ\n=====================\n\n=====================\nNote: ᴅɪʟᴀʀᴀɴɢ ᴍᴇᴍᴘᴇʀᴊᴜᴀʟ ʙᴇʟɪᴋᴀɴ sᴄʀɪᴘᴛ ɪɴɪ\n=====================\n\n"
 reload(sys)
